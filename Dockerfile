@@ -1,0 +1,4 @@
+From openjdk:8
+EXPOSE 8088
+Add
+ENTRYPOINT
